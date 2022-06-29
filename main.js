@@ -1,6 +1,6 @@
 // This is a new HTTPS made by me
 // HUGE Credits to AltanB (this is the base of his source.)
-// This is tested and probably will work. 
+// This is NOT tested and probably will work. 
 // If you have any questions/supports please message me :)
 // This is an ADVANVED HTTPS which now has logging and more!
 // Any questions? Please message me!
