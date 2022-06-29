@@ -10,3 +10,5 @@ Please dm me on discord or email me
 Purge#1338
 # Email
 purgexd554@gmail.com
+# Showcase Logging
+![Alt Text](showcase.PNG)
